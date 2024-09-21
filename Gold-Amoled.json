@@ -163,7 +163,7 @@
     "PRIMARY_600": "#2a2a2a",
     "PRIMARY_660": "#2a2a2a",
     "GREEN_360": "#c9a86b",
-    "BLACK_500": "transparent",
+    "BLACK_500": "c9a86b",
     "PLUM_20": "#2a2a2a"
   }
 }
