@@ -1,6 +1,6 @@
 {
   "name": "NeoGruv",
-  "description": "A nice amold theme",
+  "description": "A nice gruvbox esque theme",
   "color": "#c9a86b",
   "authors": [
   	{
@@ -155,6 +155,10 @@
     ],
     "TEXT_LINK": [
       "#91C8E4",
+      "#ffffff"
+    ],
+    "TEXT_DANGER": [
+      "#c0544b",
       "#ffffff"
     ],
     "KEYBOARD": [
