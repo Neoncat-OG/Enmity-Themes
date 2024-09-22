@@ -130,7 +130,11 @@
       "#ffffff"
     ],
     "CARD_PRIMARY_BG": [
-      "#2a2a2a",
+      "#4C4C4C",
+      "#ffffff"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#4c4c4c",
       "#ffffff"
     ],
     "BG_BASE_PRIMARY": [
