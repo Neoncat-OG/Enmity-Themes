@@ -113,6 +113,10 @@
       "#4c4c4c",
       "#ffffff"
     ],
+    "PANEL_BG": [
+      "#2a2a2a",
+      "#ffffff"
+    ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#111111",
       "#ffffff"
