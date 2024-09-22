@@ -134,7 +134,7 @@
       "#ffffff"
     ],
     "BG_BACKDROP": [
-      "#2a2a2a",
+      "transparent",
       "#ffffff"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
